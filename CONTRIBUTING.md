@@ -75,7 +75,7 @@ See [docs/rust_crypto_integration.md](./docs/rust_crypto_integration.md#testing-
 ## I want to help translating Element
 
 If you want to fix an issue with an English string, please submit a PR.
-If you want to fix an issue in other languages, or add a missing translation, or even add a new language, please use [Weblate](https://translate.element.io/projects/element-android/).
+If you want to fix an issue in other languages, or add a missing translation, or even add a new language, please use [Localazy](https://localazy.com/p/element-web).
 
 ## I want to submit a PR to fix an issue
 
